@@ -1,2 +1,2 @@
 # vintage-car
-A website for selling and buying vintage cars
+A frontend template that coudl be used for designing a website to sell and buy cars.
